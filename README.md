@@ -1,1 +1,2 @@
 # TimeNow
+Enjoy suffering
